@@ -1,6 +1,7 @@
 
 
- <img src="https://github.com/user-attachments/assets/15600b18-f73b-4ba3-a959-47f0048a1ab6" alt="image2" width="50%">
+<img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/62b3f69e-4949-4fbd-a361-89076ece3a33" />
+
 
 
 # **Juego Interactivo "Simón dice"**
@@ -180,12 +181,12 @@ Los desafíos principales del proyecto se centran en la correcta generación de 
 
 
 
-###### **1.3.1 Diagrama en bloques**
+#### **1.3.1 Diagrama en bloques**
 
 En la Figura 1.3.1 se muestra el diagrama en bloques del sistema con los principales módulos del proyecto.  
 
 <p align="center">
-  <img src="Diagrama_en_Bloques.png" alt="Diagrama en bloques del sistema SimonDice STM32" width="450">
+  <img width="500" height="350" alt="Diagrama_en_Bloques" src="https://github.com/user-attachments/assets/ff35c37b-c2c7-4a0f-bb3c-9e7af2fbe522" />
 </p>
 
 <p align="center"><em>Figura 1.3.1: Diagrama en bloques del sistema</em></p>
